@@ -1,0 +1,8 @@
+E:\c#\Kenneth_asignacion1\obj\Debug\Kenneth_asignacion1.csproj.AssemblyReference.cache
+E:\c#\Kenneth_asignacion1\obj\Debug\Kenneth_asignacion1.csproj.SuggestedBindingRedirects.cache
+E:\c#\Kenneth_asignacion1\obj\Debug\Kenneth_asignacion1.csproj.CoreCompileInputs.cache
+E:\c#\Kenneth_asignacion1\bin\Debug\Kenneth_asignacion1.exe.config
+E:\c#\Kenneth_asignacion1\bin\Debug\Kenneth_asignacion1.exe
+E:\c#\Kenneth_asignacion1\bin\Debug\Kenneth_asignacion1.pdb
+E:\c#\Kenneth_asignacion1\obj\Debug\Kenneth_asignacion1.exe
+E:\c#\Kenneth_asignacion1\obj\Debug\Kenneth_asignacion1.pdb
